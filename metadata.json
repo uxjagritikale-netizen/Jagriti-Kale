@@ -1,0 +1,8 @@
+{
+  "name": "DesignLens AI Interviewer",
+  "description": "A smart Product Design mock interviewer that uses your camera to conduct realistic, real-time practice sessions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
